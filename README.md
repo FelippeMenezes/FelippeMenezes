@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Felippe de O. M. de Santana</h1>
+<h1 align="center">Hi 👋, I'm Felippe de O. Menezes de Santana</h1>
 <h3 align="center">A passionate fullstack developer jr from Rio de Janeiro</h3>
 
 - 🔭 I’m currently working on [Roof And Bed](https://roof-and-bed.herokuapp.com/)
