@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Felippe de O. Menezes de Santana</h1>
 <h3 align="center">A passionate fullstack developer jr from Rio de Janeiro</h3>
 
-- 🔭 I’m currently working on [API_Star_Wars](https://github.com/FelippeMenezes/api-star-wars)
-
 - 🔭 I’m currently working on [Favela Zap](https://favelazap.herokuapp.com/)
 
 - 🔭 I’m currently working on [Roof And Bed](https://roof-and-bed.herokuapp.com/)
+
+- 🔭 I’m currently working on [API_Star_Wars](https://github.com/FelippeMenezes/api-star-wars)
 
 - 🌱 I’m currently learning **Ruby on Rails ES 6 JavaScript HTML CSS Figma Git GitHub Bootstrap Json APIs Heroku SQL Postgres Relational DB, React**
 
