@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Felippe de O. Menezes de Santana</h1>
 <h3 align="center">A passionate fullstack developer jr from Rio de Janeiro</h3>
 
-- 🔭 I'm currently work on [API Star Wars](https://https://alurakut-three-swart.vercel.app/)
+- 🔭 I'm currently work on [Alurakut](https://https://alurakut-three-swart.vercel.app/)
 - https://github.com/FelippeMenezes/alurakut
 
 - 🔭 I worked on [Favela Zap](https://favelazap.herokuapp.com/)
