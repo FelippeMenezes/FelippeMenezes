@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Felippe de O. Menezes de Santana</h1>
 <h3 align="center">A passionate fullstack developer jr from Rio de Janeiro</h3>
 
+- 🌱 I’m currently learning **Ruby on Rails ES 6 JavaScript HTML CSS Figma Git GitHub Bootstrap Json APIs Heroku SQL Postgres Relational DB, React**
+
+- 👨‍💻 All of my projects are available at [https://github.com/FelippeMenezes](https://github.com/FelippeMenezes)
+
+- 📫 How to reach me **felippemenezes1982@gmail.com**
+
+- 📄 Know about my experiences [https://www.notion.so/FELIPPE-SANTANA-FRONT-END-DEVELOPER-745081f09d3849478a4895f314f05ee4](https://www.notion.so/FELIPPE-SANTANA-FRONT-END-DEVELOPER-745081f09d3849478a4895f314f05ee4)
+
 - 🔭 I'm currently work on [Alurakut](https://https://alurakut-three-swart.vercel.app/)
 - https://github.com/FelippeMenezes/alurakut
 
@@ -12,14 +20,6 @@
 
 - 🔭 I worked on [API_Star_Wars](https://api-star-wars-pulsus.herokuapp.com/)
 - https://github.com/FelippeMenezes/api-star-wars
-
-- 🌱 I’m currently learning **Ruby on Rails ES 6 JavaScript HTML CSS Figma Git GitHub Bootstrap Json APIs Heroku SQL Postgres Relational DB, React**
-
-- 👨‍💻 All of my projects are available at [https://github.com/FelippeMenezes](https://github.com/FelippeMenezes)
-
-- 📫 How to reach me **felippemenezes1982@gmail.com**
-
-- 📄 Know about my experiences [https://www.notion.so/FELIPPE-SANTANA-FRONT-END-DEVELOPER-745081f09d3849478a4895f314f05ee4](https://www.notion.so/FELIPPE-SANTANA-FRONT-END-DEVELOPER-745081f09d3849478a4895f314f05ee4)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
