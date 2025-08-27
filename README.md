@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **felippemenezes1982@gmail.com**
 
-- 📄 Know about my experiences [https://www.notion.so/FELIPPE-SANTANA-FRONT-END-DEVELOPER-745081f09d3849478a4895f314f05ee4](https://www.notion.so/FELIPPE-SANTANA-FRONT-END-DEVELOPER-745081f09d3849478a4895f314f05ee4)
-
 - 🔭 I worked on [Alurakut](https://alurakut-three-swart.vercel.app/)
 - https://github.com/FelippeMenezes/alurakut
 
