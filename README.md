@@ -12,8 +12,8 @@
 - 🔭 I worked on [Alurakut](https://https://alurakut-three-swart.vercel.app/)
 - https://github.com/FelippeMenezes/alurakut
 
-- 🔭 I worked on [Favela Zap](https://favelazap.herokuapp.com/)
-- https://github.com/AugustoPresto/favelazap
+- 🔭 I worked on [Esporte Mestre](https://esporte-mestre.onrender.com/)
+- https://github.com/FelippeMenezes/esporte_mestre
 
 - 🔭 I worked on [Roof And Bed](https://roof-and-bed.herokuapp.com/)
 - https://github.com/Pedro-Resende-Br/roof-and-bed
