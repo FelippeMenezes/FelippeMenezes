@@ -10,10 +10,10 @@
 - 🔭 I worked on [Alurakut](https://alurakut-three-swart.vercel.app/)
 - https://github.com/FelippeMenezes/alurakut
 
-- 🔭 I worked on [Esporte Mestre](https://esporte-mestre.onrender.com/)
+- 🔭 I worked on [Esporte Mestre](https://eager-mina-gerentedabola-77ab0547.koyeb.app/)
 - https://github.com/FelippeMenezes/esporte_mestre
 
-- 🔭 I worked on [Itens Fallout](https://conservation-margarette-gerentedabola-a0a45599.koyeb.app/)
+- 🔭 I worked on Itens Fallout
 - https://github.com/FelippeMenezes/itens_fallout
 
 <h3 align="left">Connect with me:</h3>
