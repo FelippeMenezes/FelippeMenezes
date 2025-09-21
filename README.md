@@ -13,7 +13,7 @@
 - 🔭 I worked on [Esporte Mestre](https://eager-mina-gerentedabola-77ab0547.koyeb.app/)
 - https://github.com/FelippeMenezes/esporte_mestre
 
-- 🔭 I worked on Itens Fallout
+- 🔭 I worked on Fallout List
 - https://github.com/FelippeMenezes/itens_fallout
 
 <h3 align="left">Connect with me:</h3>
