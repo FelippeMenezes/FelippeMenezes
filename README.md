@@ -7,14 +7,14 @@
 
 - 📫 How to reach me **felippemenezes1982@gmail.com**
 
-- 🔭 I worked on [Alurakut](https://alurakut-three-swart.vercel.app/)
-- https://github.com/FelippeMenezes/alurakut
-
 - 🔭 I worked on [Esporte Mestre](https://eager-mina-gerentedabola-77ab0547.koyeb.app/)
 - https://github.com/FelippeMenezes/esporte_mestre
 
 - 🔭 I worked on Fallout List
 - https://github.com/FelippeMenezes/itens_fallout
+
+- 🔭 I worked on [Alurakut](https://alurakut-three-swart.vercel.app/)
+- https://github.com/FelippeMenezes/alurakut
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
