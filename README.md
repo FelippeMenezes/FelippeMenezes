@@ -10,8 +10,8 @@
 - 🔭 I worked on [Esporte Mestre](https://eager-mina-gerentedabola-77ab0547.koyeb.app/)
 - https://github.com/FelippeMenezes/esporte_mestre
 
-- 🔭 I worked on Fallout List
-- https://github.com/FelippeMenezes/itens_fallout
+- 🔭 I worked on Umanni Challenge
+- https://github.com/FelippeMenezes/umanni
 
 - 🔭 I worked on [Alurakut](https://alurakut-three-swart.vercel.app/)
 - https://github.com/FelippeMenezes/alurakut
