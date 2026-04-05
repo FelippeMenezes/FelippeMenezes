@@ -47,8 +47,8 @@ Ruby on Rails | JavaScript (ES6+) | React | PostgreSQL | REST APIs | Sidekiq | H
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FelippeMenezes&show_icons=true&theme=dark"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelippeMenezes&layout=compact&langs_count=8&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=FelippeMenezes&show_icons=true&theme=dark&cache_seconds=1800"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelippeMenezes&layout=compact&langs_count=8&theme=dark&cache_seconds=1800"/>
 </p>
 
 ---
