@@ -10,8 +10,8 @@
 - 🔭 I worked on [Esporte Mestre](https://future-puffin-esporte-mestre-a25dd968.koyeb.app/)
 - https://github.com/FelippeMenezes/esporte_mestre
 
-- 🔭 I worked on Umanni Challenge
-- https://github.com/FelippeMenezes/umanni
+- 🔭 I worked on API Star Wars
+- - [https://github.com/FelippeMenezes/alurakut](https://github.com/FelippeMenezes/api-star-wars)
 
 - 🔭 I worked on [Alurakut](https://alurakut-three-swart.vercel.app/)
 - https://github.com/FelippeMenezes/alurakut
