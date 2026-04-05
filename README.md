@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Felippe de O. Menezes de Santana</h1>
 <h3 align="center">Full-Stack Developer from Rio de Janeiro 🇧🇷</h3>
 
+<p align="center">
+Ruby on Rails | JavaScript (ES6+) | React | PostgreSQL | REST APIs | Sidekiq | Heroku
+</p>
 ---
 
 - 🌱 With 3+ years of full-stack development experience, I build technology solutions that create real impact.  
