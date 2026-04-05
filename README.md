@@ -4,10 +4,10 @@
 <p align="center">
 Ruby on Rails | JavaScript (ES6+) | React | PostgreSQL | REST APIs | Sidekiq | Heroku
 </p>
----
 
-- 🌱 With 3+ years of full-stack development experience, I build technology solutions that create real impact.  
-  I focus on **clean code, performance, and solving real-world problems**.
+- 🌱 With over 4 years of full-stack development experience, I build technology solutions that create positive impact and deliver real results. My work is driven by the ability to analyze scenarios, identify needs, and design efficient, customized solutions.
+
+
 
 - 🚀 Currently improving my skills in:
   - Backend architecture (Ruby on Rails)
