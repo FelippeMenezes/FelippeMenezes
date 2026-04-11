@@ -13,8 +13,8 @@
 - 🔭 I worked on API Star Wars
 - https://github.com/FelippeMenezes/api-star-wars
 
-- 🔭 I worked on [Alurakut](https://alurakut-three-swart.vercel.app/)
-- https://github.com/FelippeMenezes/alurakut
+- 🔭 I worked on [Project Calculator - The Odin Project Foundations](https://felippemenezes.github.io/project-calculator/)
+- https://github.com/FelippeMenezes/project-calculator
 
 <h3 align="left">Connect with me:</h3>
 
