@@ -10,7 +10,7 @@
 - 🔭 I worked on [Esporte Mestre](https://future-puffin-esporte-mestre-a25dd968.koyeb.app/)
 - https://github.com/FelippeMenezes/esporte_mestre
 
-- 🔭 I worked on API Star Wars
+- 🔭 I worked on [API Star Wars](https://api-star-wars-9ab4.onrender.com/)
 - https://github.com/FelippeMenezes/api-star-wars
 
 - 🔭 I worked on [Project Calculator - The Odin Project Foundations](https://felippemenezes.github.io/project-calculator/)
