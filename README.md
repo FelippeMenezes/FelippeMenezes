@@ -7,26 +7,21 @@
 
 - 📫 How to reach me **felippemenezes1982@gmail.com**
 
-- 🔭 I worked on [Esporte Mestre](https://future-puffin-esporte-mestre-a25dd968.koyeb.app/)
-- https://github.com/FelippeMenezes/esporte_mestre
+- 🔭 I worked on [Esporte Mestre](https://future-puffin-esporte-mestre-a25dd968.koyeb.app/) - [Repository](https://github.com/FelippeMenezes/esporte_mestre)
 
-- 🔭 I worked on [API Star Wars](https://api-star-wars-9ab4.onrender.com/)
-- https://github.com/FelippeMenezes/api-star-wars
+- 🔭 I worked on [API Star Wars](https://api-star-wars-9ab4.onrender.com/) - [Repository](https://github.com/FelippeMenezes/api-star-wars)
 
-- 🔭 I worked on [Project Calculator - The Odin Project Foundations](https://felippemenezes.github.io/project-calculator/)
-- https://github.com/FelippeMenezes/project-calculator
+- 🔭 I worked on [Project Calculator - The Odin Project Foundations](https://felippemenezes.github.io/project-calculator/) - [Repository](https://github.com/FelippeMenezes/project-calculator)
 
 <h3 align="left">Connect with me:</h3>
-
 <p align="left">
-<a href="https://www.linkedin.com/in/felippemenezes/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
+  <a href="https://www.linkedin.com/in/felippemenezes/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-
-<p align="left">
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
   <a href="https://getbootstrap.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
   </a>
