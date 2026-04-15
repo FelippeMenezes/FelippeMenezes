@@ -7,11 +7,11 @@
 
 - 📫 How to reach me **felippemenezes1982@gmail.com**
 
--  telescope I worked on [Esporte Mestre](https://future-puffin-esporte-mestre-a25dd968.koyeb.app/) - [Repository](https://github.com/FelippeMenezes/esporte_mestre)
+- 🔭 I worked on [Esporte Mestre](https://future-puffin-esporte-mestre-a25dd968.koyeb.app/) - [Repository](https://github.com/FelippeMenezes/esporte_mestre)
 
-- telescope I worked on [API Star Wars](https://api-star-wars-9ab4.onrender.com/) - [Repository](https://github.com/FelippeMenezes/api-star-wars)
+- 🔭 I worked on [API Star Wars](https://api-star-wars-9ab4.onrender.com/) - [Repository](https://github.com/FelippeMenezes/api-star-wars)
 
-- telescope I worked on [Project Calculator - The Odin Project Foundations](https://felippemenezes.github.io/project-calculator/) - [Repository](https://github.com/FelippeMenezes/project-calculator)
+- 🔭 I worked on [Project Calculator - The Odin Project Foundations](https://felippemenezes.github.io/project-calculator/) - [Repository](https://github.com/FelippeMenezes/project-calculator)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
