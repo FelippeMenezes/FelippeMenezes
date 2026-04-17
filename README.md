@@ -11,7 +11,7 @@
 
 - 🔭 I worked on [API Star Wars](https://api-star-wars-9ab4.onrender.com/) - [Repository](https://github.com/FelippeMenezes/api-star-wars)
 
-- 🔭 I worked on [Project Calculator - The Odin Project Foundations](https://felippemenezes.github.io/project-calculator/) - [Repository](https://github.com/FelippeMenezes/project-calculator)
+- 🔭 I worked on [Project Calculator](https://felippemenezes.github.io/project-calculator/) - [Repository](https://github.com/FelippeMenezes/project-calculator)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
