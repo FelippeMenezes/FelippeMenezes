@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Felippe Menezes </h1>
+<h1 align="center">Hi, I'm Felippe de O. Menezes de Santana </h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/felippemenezes/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:felippemenezes1982@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/felippemenezes/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:felippemenezes1982@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 <h3 align="center">Software Engineer | Full-Stack Developer | Problem Solver</h3>
@@ -26,36 +26,35 @@
 ### Tech Stack & Tools
 
 **Languages & Frameworks**
-<p align="left">
-  <img src="https://img.shields.io/badge/ruby-%23CC0000.svg?style=for-the-badge&logo=ruby&logoColor=white" />
-  <img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/bootstrap-%237952b3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</p>
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
+![Ruby](https://img.shields.io/badge/-Ruby-CC0000?logo=ruby&logoColor=white&style=flat)
+![Rails](https://img.shields.io/badge/-Rails-CC0000?logo=ruby-on-rails&logoColor=white&style=flat)
+![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=flat)
 
 **Backend & Databases**
-<p align="left">
-  <img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Relational%20DB-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sidekiq-red?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/JSON%20APIs-orange?style=for-the-badge&logo=json&logoColor=white" />
-</p>
+
+![Relational DB](https://img.shields.io/badge/-Relational_DB-blue?style=flat)
+![SQL](https://img.shields.io/badge/-SQL-lightgrey?logo=postgresql&logoColor=white&style=flat)
+![Postgres](https://img.shields.io/badge/-Postgres-316192?logo=postgresql&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4ea94b?logo=mongodb&logoColor=white&style=flat)
+![Sidekiq](https://img.shields.io/badge/-Sidekiq-red?logo=redis&logoColor=white&style=flat)
+![JSON APIs](https://img.shields.io/badge/-JSON_APIs-orange?logo=json&logoColor=white&style=flat)
 
 **Tools & Environment**
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
+
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+![Cursor](https://img.shields.io/badge/-Cursor-000000?logo=cursor&logoColor=white&style=flat)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
+
 
 ---
 
