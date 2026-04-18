@@ -8,11 +8,11 @@
 
 - How to reach me **felippemenezes1982@gmail.com**
 
-- 🔭 I worked on [Esporte Mestre](https://future-puffin-esporte-mestre-a25dd968.koyeb.app/) - [Repository](https://github.com/FelippeMenezes/esporte_mestre)
+- 🔭 I worked on [Esporte Mestre](https://future-puffin-esporte-mestre-a25dd968.koyeb.app/)
 
-- 🔭 I worked on [API Star Wars](https://api-star-wars-9ab4.onrender.com/) - [Repository](https://github.com/FelippeMenezes/api-star-wars)
+- 🔭 I worked on [API Star Wars](https://api-star-wars-9ab4.onrender.com/)
 
-- 🔭 I worked on [Project Calculator](https://felippemenezes.github.io/project-calculator/) - [Repository](https://github.com/FelippeMenezes/project-calculator)
+- 🔭 I worked on [Project Calculator](https://felippemenezes.github.io/project-calculator/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
