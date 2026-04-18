@@ -1,42 +1,22 @@
 <h1 align="center">Hi, I'm Felippe de O. Menezes de Santana</h1>
 
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
-![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white&style=flat)
-![Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?logo=rubyonrails&logoColor=white&style=flat)
-![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=database&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat&logo=cursor&logoColor=white)
+<h3 align="center">A passionate fullstack developer jr from Rio de Janeiro</h3>
 
----
->
-> <h3 align="center">A passionate fullstack developer jr from Rio de Janeiro</h3>
->
-> - With 4 years of full-stack development experience, I build technology solutions that create positive impact and deliver real results. My work is driven by the ability to analyze scenarios, identify needs, and design efficient, customized solutions. **Ruby on Rails ES 6 JavaScript HTML CSS Figma Git GitHub Bootstrap Json APIs Sideqik SQL Postgres Relational DB, React**
->
-> - All of my projects are available at [my repositories](https://github.com/FelippeMenezes?tab=repositories)
->
-> - How to reach me **felippemenezes1982@gmail.com**
->
-> - 🔭 I worked on [Esporte Mestre](https://future-puffin-esporte-mestre-a25dd968.koyeb.app/) - [Repository](https://github.com/FelippeMenezes/esporte_mestre)
->
-> - 🔭 I worked on [API Star Wars](https://api-star-wars-9ab4.onrender.com/) - [Repository](https://github.com/FelippeMenezes/api-star-wars)
->
-> - 🔭 I worked on [Project Calculator](https://felippemenezes.github.io/project-calculator/) - [Repository](https://github.com/FelippeMenezes/project-calculator)
->
-> <h3 align="left">Connect with me:</h3>
-> <p align="left">
-> <a href="https://www.linkedin.com/in/felippemenezes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+- With 4 years of full-stack development experience, I build technology solutions that create positive impact and deliver real results. My work is driven by the ability to analyze scenarios, identify needs, and design efficient, customized solutions. **Ruby on Rails ES 6 JavaScript HTML CSS Figma Git GitHub Bootstrap Json APIs Sideqik SQL Postgres Relational DB, React**
+
+- All of my projects are available at [my repositories](https://github.com/FelippeMenezes?tab=repositories)
+
+- How to reach me **felippemenezes1982@gmail.com**
+
+- 🔭 I worked on [Esporte Mestre](https://future-puffin-esporte-mestre-a25dd968.koyeb.app/) - [Repository](https://github.com/FelippeMenezes/esporte_mestre)
+
+- 🔭 I worked on [API Star Wars](https://api-star-wars-9ab4.onrender.com/) - [Repository](https://github.com/FelippeMenezes/api-star-wars)
+
+- 🔭 I worked on [Project Calculator](https://felippemenezes.github.io/project-calculator/) - [Repository](https://github.com/FelippeMenezes/project-calculator)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/felippemenezes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
