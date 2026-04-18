@@ -16,7 +16,7 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
 ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat&logo=cursor&logoColor=white)
 
-<h1 align="center">Hi 👋, I'm Felippe de O. Menezes de Santana</h1>
+<h1 align="center">Hi, I'm Felippe de O. Menezes de Santana</h1>
 <h3 align="center">A passionate fullstack developer jr from Rio de Janeiro</h3>
 
 > - With 4 years of full-stack development experience, I build technology solutions that create positive impact and deliver real results. My work is driven by the ability to analyze scenarios, identify needs, and design efficient, customized solutions. **Ruby on Rails ES 6 JavaScript HTML CSS Figma Git GitHub Bootstrap Json APIs Sideqik SQL Postgres Relational DB, React**
