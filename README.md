@@ -14,7 +14,7 @@
 
 ---
 
-### 💻 Professional Summary
+### Professional Summary
 
 - **Current Focus:** Crafting high-performance backends with **Ruby on Rails** and modernizing frontends with **React**.
 - **Experience:** Expertise in designing relational databases, background processing with **Sidekiq**, and RESTful API architecture.
