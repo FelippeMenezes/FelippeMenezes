@@ -9,7 +9,7 @@
 
 <p align="center">
   Dedicated to building robust, scalable web applications with 4 years of hands-on experience. 
-  Currently deepening my expertise in the <strong>Odin Project</strong>, moving from solid Ruby on Rails foundations to advanced JavaScript ecosystems.
+  I build technology solutions that create positive impact and deliver real results. My work is driven by the ability to analyze scenarios, identify needs, and design efficient, customized solutions.
 </p>
 
 ---
