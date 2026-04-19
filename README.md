@@ -34,12 +34,12 @@
 > ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
 > ![Ruby](https://img.shields.io/badge/-Ruby-CC0000?logo=ruby&logoColor=white&style=flat)
 > ![Rails](https://img.shields.io/badge/-Rails-CC0000?logo=ruby-on-rails&logoColor=white&style=flat)
-> ![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=flat)
+> ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
 > 
 > **Backend & Databases**
 > 
 > ![Relational DB](https://img.shields.io/badge/-Relational_DB-blue?style=flat)
-> ![SQL](https://img.shields.io/badge/-SQL-lightgrey?logo=postgresql&logoColor=white&style=flat)
+> ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=database&logoColor=white)
 > ![Postgres](https://img.shields.io/badge/-Postgres-316192?logo=postgresql&logoColor=white&style=flat)
 > ![MongoDB](https://img.shields.io/badge/-MongoDB-4ea94b?logo=mongodb&logoColor=white&style=flat)
 > ![Sidekiq](https://img.shields.io/badge/-Sidekiq-red?logo=redis&logoColor=white&style=flat)
