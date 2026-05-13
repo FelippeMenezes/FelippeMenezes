@@ -62,7 +62,7 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=felippemenezes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="55%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=felippemenezes&layout=compact&theme=tokyonight&hide=html,css&card_width=320"/>
+  <img height="180em" width="53%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=felippemenezes&layout=compact&theme=tokyonight&hide=html,css&card_width=320"/>
 </p>
 
 <p align="center"> 
