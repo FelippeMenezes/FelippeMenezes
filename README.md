@@ -61,8 +61,9 @@
 ## GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelippeMenezes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelippeMenezes&layout=compact&theme=tokyonight&hide=html,css" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=felippemenezes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=felippemenezes&layout=compact&theme=tokyonight&hide=html,css" />
 </p>
 
 <p align="center"> 
