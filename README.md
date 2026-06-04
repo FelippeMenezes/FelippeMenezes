@@ -17,7 +17,7 @@
 ## Professional Summary
 > 
 > - **Current Focus:** Crafting high-performance backends with **Ruby on Rails** and modernizing frontends with **React**.
-> - **Experience:** Expertise in designing relational databases, background processing with **Sidekiq**, and RESTful API architecture.
+> - **Experience:** Expertise in designing relational databases, background processing with **Sidekiq**, AWS and RESTful API architecture.
 > - **Background:** Le Wagon Alumni with a continuous learning mindset.
 > - **Based in:** Rio de Janeiro, Brazil.
 > 
