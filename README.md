@@ -61,13 +61,11 @@
 ## GitHub Stats
 
 <p align="center">
-  <img height="180" align="top" src="https://github-stats-extended.vercel.app/api?username=felippemenezes&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-  <img height="198" align="top" src="https://github-stats-extended.vercel.app/api/top-langs/?username=felippemenezes&layout=compact&theme=tokyonight&hide=html,css"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=felippemenezes&custom_title=GitHub%20Stats&show_icons=true&theme=tokyonight&include_all_commits=true&card_width=495" />
 </p>
 
 <p align="center">
-  <img height="180" align="top" src="https://github-stats-extended.vercel.app/api?username=felippemenezes&custom_title=GitHub%20Stats&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-  <img height="198" align="top" src="https://github-stats-extended.vercel.app/api/top-langs/?username=felippemenezes&layout=compact&theme=tokyonight&hide=html,css"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=felippemenezes&layout=compact&theme=tokyonight&hide=html,css&card_width=495" />
 </p>
 
 <p align="center"> 
