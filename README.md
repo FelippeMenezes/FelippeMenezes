@@ -53,7 +53,7 @@
 > ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
 > ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
 > ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
-> ![Cursor](https://img.shields.io/badge/-Cursor-000000?logo=cursor&logoColor=white&style=flat)
+> ![Cursor](https://img.shields.io/badge/-Claude-000000?logo=claude&logoColor=orange&style=flat)
 > 
 
 ---
