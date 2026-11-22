@@ -35,16 +35,23 @@
 > ![Ruby](https://img.shields.io/badge/-Ruby-CC0000?logo=ruby&logoColor=white&style=flat)
 > ![Rails](https://img.shields.io/badge/-Rails-CC0000?logo=ruby-on-rails&logoColor=white&style=flat)
 > ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+> ![C#](https://img.shields.io/badge/-C%23-512BD4?logo=csharp&logoColor=white&style=flat)
+> ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=flat)
 > 
 > **Backend & Databases**
 > 
 > ![Relational DB](https://img.shields.io/badge/-Relational_DB-blue?style=flat)
 > ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=database&logoColor=white)
 > ![Postgres](https://img.shields.io/badge/-Postgres-316192?logo=postgresql&logoColor=white&style=flat)
-> ![DBeaver](https://img.shields.io/badge/-DBeaver-white?logo=dbeaver&logoColor=blue&style=flat)
+> ![DBeaver](https://img.shields.io/badge/-DBeaver-372923?logo=dbeaver&logoColor=white&style=flat)
 > ![MongoDB](https://img.shields.io/badge/-MongoDB-4ea94b?logo=mongodb&logoColor=white&style=flat)
 > ![Sidekiq](https://img.shields.io/badge/-Sidekiq-red?logo=redis&logoColor=white&style=flat)
 > ![JSON APIs](https://img.shields.io/badge/-JSON_APIs-orange?logo=json&logoColor=white&style=flat)
+> ![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=white&style=flat)
+> ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=FF9900&style=flat)
+> ![EC2](https://img.shields.io/badge/-Amazon%20EC2-FF9900?logo=amazonec2&logoColor=white&style=flat)
+> ![S3](https://img.shields.io/badge/-Amazon%20S3-569A31?logo=amazons3&logoColor=white&style=flat)
+> 
 > 
 > **Tools & Environment**
 > 
@@ -54,6 +61,9 @@
 > ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
 > ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
 > ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
+> ![Argo](https://img.shields.io/badge/-Argo-EF7B4D?logo=argo&logoColor=white&style=flat)
+> ![New Relic](https://img.shields.io/badge/-New%20Relic-008C99?logo=newrelic&logoColor=white&style=flat)
+> ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=flat)
 > ![Cursor](https://img.shields.io/badge/-Claude-000000?logo=claude&logoColor=orange&style=flat)
 > 
 
